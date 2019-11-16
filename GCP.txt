@@ -1,0 +1,1 @@
+This file was created in GCP VM instance and is then pushed to github. The codes for the FAST_AI course will follow along. Keep watching this space.
